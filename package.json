@@ -1,32 +1,7 @@
-{
-  "_from": "@madetech/gatsby-source-wordpress",
-  "_id": "@madetech/gatsby-source-wordpress@0.0.2",
-  "_inBundle": false,
-  "_integrity": "sha512-77VkswLxwSWHWVxvUEqyFDNv74JbThU+P5QZvl5tGPKbnEWmE6Dm3Ck+eAGWeavZQG6fLILbGIXxI2aNGsxflA==",
-  "_location": "/@madetech/gatsby-source-wordpress",
-  "_phantomChildren": {},
-  "_requested": {
-    "type": "tag",
-    "registry": true,
-    "raw": "@madetech/gatsby-source-wordpress",
-    "name": "@madetech/gatsby-source-wordpress",
-    "escapedName": "@madetech%2fgatsby-source-wordpress",
-    "scope": "@madetech",
-    "rawSpec": "",
-    "saveSpec": null,
-    "fetchSpec": "latest"
-  },
-  "_requiredBy": [
-    "#USER",
-    "/"
-  ],
-  "_resolved": "https://registry.npmjs.org/@madetech/gatsby-source-wordpress/-/gatsby-source-wordpress-0.0.2.tgz",
-  "_shasum": "d0ae53115ad4c389d93cf54cb5ec7d08b82b50b1",
-  "_spec": "@madetech/gatsby-source-wordpress",
-  "_where": "/Users/richardzilahi/zilahir/fme.fi/fme",
+{  
   "author": {
-    "name": "Luke Morton",
-    "email": "lukemorton.dev@gmail.com"
+    "name": "Richard Zilahi",
+    "email": "zilahi@gmail.com"
   },
   "bugs": {
     "url": "https://github.com/lukemorton/gatsby/issues"
