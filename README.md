@@ -1,3 +1,5 @@
+## IMPORTANT! this is a FORKED version of the original gatsby wordpress plugin
+
 # gatsby-source-wordpress
 
 Source plugin for pulling data into [Gatsby](https://github.com/gatsbyjs) from
